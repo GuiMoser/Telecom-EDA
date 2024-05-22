@@ -1,4 +1,5 @@
-# EDA-Statistic
+# EDA Telecommunications
+
 This notebook performs an exploratory data analysis on five datasets from the telecommunications company Megaline.
 
 The notebook goes through the entire data cleaning and data enrichment process, merging 5 dataframes into just 1 with aggregated data.
