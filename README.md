@@ -6,5 +6,5 @@ The notebook goes through the entire data cleaning and data enrichment process, 
 
 Then creates graphs to analyze user consumption for each plan, to reach the conclusion of which plan generates more revenue.
 
-Finally, perfoms some hypothesis tests to draw conclusions.
+Finally, perfoms some hypothesis tests to draw conclusions about the plans.
 
